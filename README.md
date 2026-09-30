@@ -1,4 +1,4 @@
-# Sample-Based Planning: A* vs. Anytime Nonparametric A* (ANA*)
+# Search-Based Planning: A* vs. Anytime Nonparametric A* (ANA*)
 
 > Note: This was a final project. To respect course policies, I am not publishing the code or report. Report is available upon request: vitalij@umich.edu
 
